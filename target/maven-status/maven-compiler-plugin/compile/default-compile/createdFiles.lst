@@ -1,0 +1,10 @@
+es\althaia\buscadorbd\VentanaSwing.class
+es\althaia\buscadorbd\clases\Clientes.class
+es\althaia\buscadorbd\controladores\exceptions\PreexistingEntityException.class
+es\althaia\buscadorbd\controladores\ExpedientesJpaController.class
+es\althaia\buscadorbd\VentanaSwing$1.class
+es\althaia\buscadorbd\controladores\exceptions\IllegalOrphanException.class
+es\althaia\buscadorbd\VentanaSwing$2.class
+es\althaia\buscadorbd\controladores\ClientesJpaController.class
+es\althaia\buscadorbd\controladores\exceptions\NonexistentEntityException.class
+es\althaia\buscadorbd\clases\Expedientes.class
